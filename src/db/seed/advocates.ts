@@ -1,7 +1,7 @@
 import db from "..";
 import { advocates } from "../schema";
 
-const specialties = [
+export const specialties = [
   "Bipolar",
   "LGBTQ",
   "Medication/Prescribing",
@@ -30,7 +30,7 @@ const specialties = [
   "Domestic abuse",
 ];
 
-const randomSpecialty = () => {
+export const randomSpecialty = () => {
   const random1 = Math.floor(Math.random() * 24);
   const random2 = Math.floor(Math.random() * (24 - random1)) + random1 + 1;
 
