@@ -8,11 +8,12 @@
 - Added live video conferencing with advocates.
 - Cleaned up some of the general code.
 
-### Additional Desirable Changes
+### Additional Desirable Changes / Bugs
 
 - Wish I could have added a DELETE/PATCH API.
 - Clean up of the file/folder structure. I would have placed the Modal and Table in their own respective components with better coding structure and types (type safety).
 - General code clean-up.
 - Fix tons of bugs that i'm aware of (some related to the "isAdmin" logic for the "Details" button and so on)
+- Would have really like to added sorting on the table.
 - More UI things like a mock navbar would have been nice, data highlighting on the grid.
 - Some formating options on the table would have cool (think, phone number formatting, toast/tooltip for specilties instead of tucking them away in the modal details).
