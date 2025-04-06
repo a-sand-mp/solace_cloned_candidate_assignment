@@ -17,3 +17,7 @@
 - Would have really like to added sorting on the table.
 - More UI things like a mock navbar would have been nice, data highlighting on the grid.
 - Some formating options on the table would have cool (think, phone number formatting, toast/tooltip for specilties instead of tucking them away in the modal details).
+
+### Recorded Session Link
+
+I recorded my 2 hour-ish session if the review is interested. This video is an unlisted (Youtube video)[https://www.youtube.com/watch?v=_fpn2LgfAd0].
