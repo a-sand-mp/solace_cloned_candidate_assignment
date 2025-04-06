@@ -20,4 +20,4 @@
 
 ### Recorded Session Link
 
-I recorded my 2 hour-ish session if the review is interested. This video is an unlisted (Youtube video)[https://www.youtube.com/watch?v=_fpn2LgfAd0].
+I recorded my 2 hour-ish session if the review is interested. This video is an unlisted Youtube video - https://www.youtube.com/watch?v=_fpn2LgfAd0
